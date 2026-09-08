@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "name": "Doro Wat",
+    "description": "Spicy Ethiopian chicken stew with berbere, served with injera",
+    "price": 850,
+    "category": "ethiopian",
+    "image": "/images/doro-wat.jpg",
+    "ingredients": [
+      "Chicken",
+      "Berbere",
+      "Onions",
+      "Injera",
+      "Garlic",
+      "Ginger"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Kitfo",
+    "description": "Ethiopian minced raw beef seasoned with mitmita and spiced butter",
+    "price": 420,
+    "category": "ethiopian",
+    "image": "/images/kitfo.jpg",
+    "ingredients": ["Beef", "Mitmita", "Spiced Butter", "Injera"]
+  },
+  {
+    "id": 3,
+    "name": "Shiro Tegabino",
+    "description": "Thick chickpea stew cooked with Ethiopian spices and olive oil",
+    "price": 220,
+    "category": "ethiopian",
+    "image": "/images/shiro.jpg",
+    "ingredients": ["Chickpea Powder", "Berbere", "Onions", "Olive Oil"]
+  },
+  {
+    "id": 4,
+    "name": "Beef Tibs",
+    "description": "Sauteed beef strips with jalapeño, rosemary and Ethiopian spices",
+    "price": 380,
+    "category": "ethiopian",
+    "image": "/images/tibs.jpg",
+    "ingredients": ["Beef", "Jalapeño", "Rosemary", "Onions", "Tomatoes"]
+  },
+  {
+    "id": 5,
+    "name": "Injera Firfir",
+    "description": "Torn injera mixed with spicy berbere sauce and vegetables",
+    "price": 180,
+    "category": "ethiopian",
+    "image": "/images/firfir.jpg",
+    "ingredients": ["Injera", "Berbere", "Onions", "Tomatoes", "Oil"]
+  },
+  {
+    "id": 6,
+    "name": "Margherita Pizza",
+    "description": "Classic pizza with tomato sauce, fresh mozzarella and basil",
+    "price": 320,
+    "category": "pizza",
+    "image": "/images/margherita.jpg",
+    "ingredients": ["Dough", "Tomato Sauce", "Mozzarella", "Basil"]
+  },
+  {
+    "id": 7,
+    "name": "BBQ Chicken Pizza",
+    "description": "Smoky BBQ sauce with grilled chicken, red onions and cheddar",
+    "price": 390,
+    "category": "pizza",
+    "image": "/images/bbq-chicken.jpg",
+    "ingredients": ["Dough", "BBQ Sauce", "Chicken", "Red Onion", "Cheddar"]
+  },
+  {
+    "id": 8,
+    "name": "Special Pizza",
+    "description": "Loaded with pepperoni, mushrooms, peppers and extra cheese",
+    "price": 450,
+    "category": "pizza",
+    "image": "/images/special-pizza.jpg",
+    "ingredients": [
+      "Dough",
+      "Tomato Sauce",
+      "Pepperoni",
+      "Mushrooms",
+      "Peppers",
+      "Cheese"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Classic Burger",
+    "description": "Juicy beef patty with lettuce, tomato, pickles and special sauce",
+    "price": 280,
+    "category": "burgers",
+    "image": "/images/classic-burger.jpg",
+    "ingredients": [
+      "Beef Patty",
+      "Lettuce",
+      "Tomato",
+      "Pickles",
+      "Special Sauce",
+      "Bun"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Crispy Chicken Burger",
+    "description": "Crispy fried chicken with coleslaw and honey mustard",
+    "price": 300,
+    "category": "burgers",
+    "image": "/images/chicken-burger.jpg",
+    "ingredients": ["Chicken", "Coleslaw", "Honey Mustard", "Bun"]
+  },
+  {
+    "id": 11,
+    "name": "Double Smash Burger",
+    "description": "Two smashed beef patties with American cheese and caramelized onions",
+    "price": 380,
+    "category": "burgers",
+    "image": "/images/smash-burger.jpg",
+    "ingredients": [
+      "Beef Patties",
+      "American Cheese",
+      "Caramelized Onions",
+      "Bun"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Fresh Mango Juice",
+    "description": "Freshly squeezed Ethiopian mango juice, chilled",
+    "price": 120,
+    "category": "drinks",
+    "image": "/images/mango-juice.jpg",
+    "ingredients": ["Mango", "Water", "Sugar"]
+  },
+  {
+    "id": 13,
+    "name": "Avocado Juice",
+    "description": "Creamy blended avocado with milk and a hint of honey",
+    "price": 140,
+    "category": "drinks",
+    "image": "/images/avocado-juice.jpg",
+    "ingredients": ["Avocado", "Milk", "Honey"]
+  },
+  {
+    "id": 14,
+    "name": "Ethiopian Coffee",
+    "description": "Traditional Ethiopian coffee ceremony style, strong and aromatic",
+    "price": 80,
+    "category": "drinks",
+    "image": "/images/coffee.jpg",
+    "ingredients": ["Coffee Beans", "Water"]
+  },
+  {
+    "id": 15,
+    "name": "Passion Fruit Juice",
+    "description": "Sweet and tangy fresh passion fruit juice",
+    "price": 130,
+    "category": "drinks",
+    "image": "/images/passion-juice.jpg",
+    "ingredients": ["Passion Fruit", "Water", "Sugar"]
+  }
+]

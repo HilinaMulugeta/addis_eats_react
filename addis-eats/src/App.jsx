@@ -1,5 +1,5 @@
-import Dish from "./component/Dish";
-import Header from "./component/Header";
+import Dish from "./components/Dish";
+import Header from "./components/Header";
 function App() {
   return (
     <div>
