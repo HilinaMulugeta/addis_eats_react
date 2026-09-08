@@ -1,9 +1,16 @@
-function Dish({ name, price }) {
+function Dish({ name, description, price, image }) {
   return (
-    <div>
-      <h3>
-        {name} - ${price.toFixed(2)}
-      </h3>
+    <div className="dish-card">
+      <img src={image} alt={name} />
+      <div className="dish-info">
+        <h3>{name}</h3>
+        <p>{description}</p>
+
+        <div className="div-footer">
+          <span className="price">ETB {price}</span>
+          <button>Add to Cart</button>
+        </div>
+      </div>
     </div>
   );
 }
